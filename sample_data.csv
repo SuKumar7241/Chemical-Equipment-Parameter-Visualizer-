@@ -1,0 +1,21 @@
+id,name,age,salary,department,city,experience_years,performance_score
+1,John Doe,28,55000,Engineering,New York,3,8.5
+2,Jane Smith,32,62000,Marketing,Los Angeles,5,9.2
+3,Mike Johnson,45,78000,Engineering,Chicago,12,7.8
+4,Sarah Wilson,29,48000,HR,New York,2,8.9
+5,David Brown,38,71000,Sales,Miami,8,8.1
+6,Lisa Davis,26,45000,Marketing,Seattle,1,7.5
+7,Tom Miller,41,85000,Engineering,San Francisco,15,9.0
+8,Amy Taylor,33,59000,HR,Boston,6,8.3
+9,Chris Anderson,37,67000,Sales,Denver,9,7.9
+10,Emma Thomas,31,54000,Marketing,Portland,4,8.7
+11,Ryan Garcia,44,92000,Engineering,Austin,18,9.1
+12,Nicole Martinez,27,51000,HR,Phoenix,3,8.0
+13,Kevin Lee,39,73000,Sales,Las Vegas,11,8.4
+14,Rachel White,30,56000,Marketing,San Diego,5,8.6
+15,Jason Clark,35,69000,Engineering,Dallas,7,7.7
+16,Michelle Lewis,42,81000,Sales,Houston,14,8.8
+17,Brandon Hall,25,43000,HR,Atlanta,1,7.3
+18,Stephanie Young,36,64000,Marketing,Minneapolis,8,8.2
+19,Daniel King,40,76000,Engineering,Detroit,13,8.9
+20,Jennifer Wright,34,61000,Sales,Tampa,6,8.1
