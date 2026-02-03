@@ -1,10 +1,10 @@
-# Dataset Analysis Platform - Complete Implementation
+# Chemical Equipment Parameter Visualizer - Complete Implementation
 
-A comprehensive dataset analysis platform with Django REST API backend, React.js web frontend, and PyQt5 desktop application. This platform provides complete functionality for uploading, processing, and analyzing datasets with authentication, history management, and PDF reporting.
+A comprehensive Chemical Equipment Parameter Visualizer with Django REST API backend, React.js web frontend, and PyQt5 desktop application. This platform provides complete functionality for uploading, processing, and analyzing datasets with authentication, history management, and PDF reporting.
 
 ## Project Overview
 
-This project delivers a **production-ready dataset analysis platform** with:
+This project delivers a **production-ready Chemical Equipment Parameter Visualizer** with:
 - **Django REST API Backend** (30 endpoints) with authentication and analytics
 - **React.js Web Frontend** with interactive dashboard and visualizations
 - **PyQt5 Desktop Application** with native UI and chart capabilities
@@ -16,7 +16,7 @@ This project delivers a **production-ready dataset analysis platform** with:
 ## Architecture
 
 ```
-Dataset Analysis Platform
+Chemical Equipment Parameter Visualizer
 - Django REST API Backend (datasetapi/)
   - Authentication System (JWT + Session)
   - Dataset Management (Upload, Processing, Storage)
@@ -355,7 +355,7 @@ python demo_upload.py
 ## Project Structure
 
 ```
-Dataset Analysis Platform/
+Chemical Equipment Parameter Visualizer/
 - requirements.txt                 # Python dependencies
 - README.md                       # This file
 - FINAL_PROJECT_EVALUATION.md     # Complete project evaluation
